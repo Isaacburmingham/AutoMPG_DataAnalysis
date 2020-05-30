@@ -16,6 +16,7 @@ Attributes of the dataset:
 
 
 Here is the argparse help option:
+
 usage: autompg3.py [-h] [-s <sort order>] [-o <outfile>] [-p] <command>
 
 Analyze Auto MPG data
@@ -30,7 +31,6 @@ optional arguments:
   -o <outfile>, --ofile <outfile>
                         file to write to, default is standard output
   -p, --plot            Plot the output
-
-
+  
 Citation:
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
